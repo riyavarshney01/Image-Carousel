@@ -1,0 +1,1 @@
+create a animated image carousel using HTML, CSS and javascript
